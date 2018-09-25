@@ -1,0 +1,9 @@
+{
+  "name": "@l-11/test",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/L-11/test.git",
+  "author": "L-elf Karlstein <lelfjior@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
